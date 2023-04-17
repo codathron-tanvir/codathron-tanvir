@@ -25,8 +25,8 @@
 <a href="https://github.com/codathron-tanvir"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=codathron-tanvir&color=blueviolet&style=flat-square"></a>
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
-<a href="https://github.com/codathron-tanvir"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://www.facebook.com/atanvir.dev"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
-<a href="https://www.instagram.com/codathron_tanvir/"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
-<a href="https://www.instagram.com/codathron_tanvir/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
+<a href="https://github.com/codathron-tanvir"><img align="left" title="Github" alt="Github" width="30px" src="github.png" /></a>
+<a href="https://www.facebook.com/atanvir.dev"><img align="left" title="Facebook" alt="Facebook" width="30px" src="facebook.png" /></a>
+<a href="https://www.instagram.com/codathron_tanvir/"><img align="left" title="Messenger" alt="Messenger" width="30px" src="messenger.png" /></a>
+<a href="https://www.instagram.com/codathron_tanvir/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="instagram.png" /></a>
 
