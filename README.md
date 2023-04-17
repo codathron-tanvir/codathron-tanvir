@@ -1,11 +1,11 @@
 Hi there! 👋
 
-Java
-Android
-HTML/CSS/JS
-React.js
-Node.js
-Git
+[![Java](https://img.shields.io/badge/Java-Expert-orange?logo=java&style=for-the-badge)](https://www.java.com)
+[![Android](https://img.shields.io/badge/Android-Expert-green?logo=android&style=for-the-badge)](https://developer.android.com)
+[![HTML/CSS/JS](https://img.shields.io/badge/HTML/CSS/JS-Expert-blue?logo=html5&style=for-the-badge)](https://www.w3.org)
+[![React.js](https://img.shields.io/badge/React.js-Intermediate-blueviolet?logo=react&style=for-the-badge)](https://reactjs.org)
+[![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green?logo=node.js&style=for-the-badge)](https://nodejs.org)
+[![Git](https://img.shields.io/badge/Git-Expert-red?logo=git&style=for-the-badge)](https://git-scm.com)
 
 My name is Tanvir Ahamed, and I'm a Java Android and web developer with 2 years of experience. I love building innovative and user-friendly applications using the latest technologies.
 Projects
