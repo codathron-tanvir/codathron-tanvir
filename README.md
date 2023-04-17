@@ -1,35 +1,32 @@
-Hi there! 👋
+<!-- Github README -->
+<p align="center"><a href="https://github.com/htr-tech">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=htr-tech&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/htr-tech"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide_border=true" />
+</a></p>
 
-[![Java](https://img.shields.io/badge/Java-Expert-orange?logo=java&style=for-the-badge)](https://www.java.com)
-[![Android](https://img.shields.io/badge/Android-Expert-green?logo=android&style=for-the-badge)](https://developer.android.com)
-[![HTML/CSS/JS](https://img.shields.io/badge/HTML/CSS/JS-Expert-blue?logo=html5&style=for-the-badge)](https://www.w3.org)
-[![React.js](https://img.shields.io/badge/React.js-Intermediate-blueviolet?logo=react&style=for-the-badge)](https://reactjs.org)
-[![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green?logo=node.js&style=for-the-badge)](https://nodejs.org)
-[![Git](https://img.shields.io/badge/Git-Expert-red?logo=git&style=for-the-badge)](https://git-scm.com)
+<h2><b><i>Howdy , it's Tahmid Rayat 👋</i></b></h2>
+<b><i>💻 I'm a Student & A part time Programmer</i></b>
 
-My name is Tanvir Ahamed, and I'm a Java Android and web developer with 2 years of experience. I love building innovative and user-friendly applications using the latest technologies.
-Projects
+<h3><b><i>🤠 About me :</i></b></h3>
+<li> 🇧🇩 <i>Resident of Bangladesh</i></li>
+<li> 😇 <i>Muslim</i></li>
+<li> 😐 <i>Studying at Kindergarten</i></li>
+<li> 😪 <i>Love Sleeping</i></li>
+<li> 💔 <i>Born Single</i></li>
+<li> 🐍 <i>Trying to learn Java & Web Developement</i></li>
+<li> 🤐 <i>Aim : Become a Software Engineer</i></li>
 
-Here are a few projects I've worked on:
 
-    Project Name: V2Ray Protocol Vpn
-    Project Name: Swarnokonika App
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/codathron-tanvir"><img width=550 src="https://github-profile-trophy.vercel.app/?username=codathron-tanvir&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-Experience
+<h3><b><i>🏆 Profile Statistics :</i></b></h3>
+<a href="https://github.com/codathron-tanvir"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=codathron-tanvir&color=blueviolet&style=flat-square"></a>
 
-    Java Android Developer at Codathron, Bangladesh (2 years)
-        Worked on developing and maintaining multiple Android applications using Java and Android Studio.
-        Collaborated with the design team to ensure the best user experience for the applications.
-        Implemented new features and improved existing ones for the applications.
-    Web Developer at Codathron, Bangladesh (1 year)
-        Worked on developing and maintaining multiple web applications using HTML/CSS/JavaScript, React.js, and Node.js.
-        Collaborated with the design team to ensure the best user experience for the applications.
-        Implemented new features and improved existing ones for the applications.
+<h3><b><i>📡 Get in Touch :</i></b></h3>
+<a href="https://github.com/codathron-tanvir"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
+<a href="https://www.facebook.com/atanvir.dev"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
+<a href="https://www.instagram.com/codathron_tanvir/"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
+<a href="https://www.instagram.com/codathron_tanvir/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
 
-Education
-
-    SSC - 2023
-
-Contact
-
-Feel free to reach out to me via email at office.tanvirahamed@gmail.com or connect with me on LinkedIn. I'm always open to new opportunities and collaborations!
